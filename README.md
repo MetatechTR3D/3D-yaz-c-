@@ -20,7 +20,7 @@
 |----------|----------|------|
 | **Bambu Lab X1 Carbon Combo** | Endüstriyel düzeyde hassasiyet ve yüksek performans | [Ürünü Görüntüle](https://store.metatechtr.com/bambu-lab-x1-carbon-combo-3d-printer) |
 | **Bambu Lab P1S Combo** | Yeni başlayanlar ve orta seviye kullanıcılar için ideal seçim | [Ürünü Görüntüle](https://store.metatechtr.com/bambu-lab-p1s-3d-printer-combo-with-ams) |
-| **Bambu Lab A1 Combo ** | Otomatik filament değişimi ile çoklu malzeme baskı sistemi | [Ürünü Görüntüle](https://store.metatechtr.com/bambulab-a1-combo-3d-printer) |
+| **Bambu Lab A1 Combo** | Otomatik filament değişimi ile çoklu malzeme baskı sistemi | [Ürünü Görüntüle](https://store.metatechtr.com/bambulab-a1-combo-3d-printer) |
 
 ---
 
